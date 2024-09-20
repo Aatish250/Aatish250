@@ -10,7 +10,7 @@
 
 <section>
     <div align="center">
-        ##<h3>Languages and Tools</h3>
+        <h3>**Languages and Tools**</h3>
         <p>
             <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -54,7 +54,7 @@
 </section>
 
 <div align="center">
-    ##<h3>Stats</h3>
+    <h3>**Stats**</h3>
     <p><img width="400px" src="https://github-readme-stats.vercel.app/api?username=aatish250&show_icons=true&locale=en" alt="aatish250" /></p>
     <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aatish250&" alt="aatish250" /></p>
 </div>
