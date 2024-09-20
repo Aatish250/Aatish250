@@ -55,10 +55,9 @@
 </section>
 
 <div class="status" style="display: flex; justify-content: space-evenly; flex-wrap: wrap;">
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatish250&show_icons=true&locale=en" alt="aatish250" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatish250&" alt="aatish250" /></p>
     
-    <p><img width="400px" src="https://github-readme-stats.vercel.app/api?username=aatish250&show_icons=true&locale=en" alt="aatish250" /></p>
-    
-    <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aatish250&" alt="aatish250" /></p>
 </div>
 
 </div>
