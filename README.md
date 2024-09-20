@@ -10,6 +10,7 @@
 
 <section>
     <div align="center">
+        <hr>
         <h3>Languages and Tools</h3>
         <hr>
         <p>
@@ -50,10 +51,11 @@
                 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
             </a>
         </p>
+        <hr>
     </div>
     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatish250&show_icons=true&locale=en&layout=compact" alt="aatish250" /></p>
 </section>
-<hr width="400px" align="center">
+<hr>
 <div align="center">
     <p><img width="400px" src="https://github-readme-stats.vercel.app/api?username=aatish250&show_icons=true&locale=en" alt="aatish250" /></p>
     <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aatish250&" alt="aatish250" /></p>
