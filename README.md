@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aatish250&label=Profile%20views&color=0e75b6&style=flat" alt="aatish250" /> </p>
 
-        <hr>
+<hr>
 <section>
     <div align="center">
         <h3>Languages and Tools</h3>
