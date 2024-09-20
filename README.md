@@ -1,12 +1,10 @@
 <h1 align="center">Aatish Machamasi</h1>
-<h6 align="center" color="grey">A passionate Web developer from Nepal</h6>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aatish-machamasi-b52625241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aatish-machamasi-b52625241/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aatish.250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aatish.250" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/user_aatishm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/user_aatishm/" height="30" width="40" /></a>
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aatish250&label=Profile%20views&color=0e75b6&style=flat" alt="aatish250" /> </p>
+<h6 align="center" color="grey">A passionate Web developer from Nepal</h6>
 
 <hr>
 <section>
