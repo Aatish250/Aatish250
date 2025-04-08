@@ -1,11 +1,11 @@
-<h1 align="center">Aatish Machamasi</h1>
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Aatish250&style=plastic&color=100950"></p><h1 align="center">Aatish Machamasi</h1>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aatish-machamasi-b52625241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aatish-machamasi-b52625241/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/aatish.250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aatish.250" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/user_aatishm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/user_aatishm/" height="30" width="40" /></a>
 </p>
-<h6 align="center" color="grey">A passionate Web developer from Nepal</h6>
-
+<h6 align="center">A passionate Web developer from Nepal</h6>
 <hr height="1px">
 <section>
     <div align="center">
@@ -22,9 +22,6 @@
             </a>
             <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-            </a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
             </a>
             <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -51,10 +48,8 @@
             </a>
         </p>
     </div>
-    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatish250&show_icons=true&locale=en&layout=compact" alt="aatish250" /></p>
+    <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatish250&show_icons=true&locale=en&layout=compact&theme=holi&border_radius=12&border_color=3d444d" alt="aatish250" /></p>
 </section>
-<br>
 <div align="center">
-    <p><img width="400px" src="https://github-readme-stats.vercel.app/api?username=aatish250&show_icons=true&locale=en" alt="aatish250" /></p>
-    <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=aatish250&" alt="aatish250" /></p>
+    <p><img width="400px" src="https://github-readme-stats.vercel.app/api?username=aatish250&show_icons=true&locale=en&theme=holi&border_radius=12&border_color=3d444d" alt="aatish250" /></p>
 </div>
